@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246939429512",
+    "project_id": "scodar-49040",
+    "storage_bucket": "scodar-49040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246939429512:android:5b426134afc5130d280d3d",
+        "android_client_info": {
+          "package_name": "com.asheyori.scodar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246939429512-cbmg87boencv1vk3dcha7f1p6dhkn7ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQkVjq9wufn7fldWYEI_JooTwSfvyJdoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246939429512-cbmg87boencv1vk3dcha7f1p6dhkn7ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
